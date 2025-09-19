@@ -15,7 +15,7 @@ The dashboard provides insights into Airbnb listings, pricing trends, and housin
 ## Dashboard Preview
 Here's the screenshot for a quick preview:
 
-[![Dashboard Preview](images/dashboard-preview.png)](https://public.tableau.com/app/profile/irish.danielle.santos/viz/shared/H9J342QT6)
+[![Dashboard Preview](images/dashboard-preview.png)](https://drive.google.com/file/d/149YTU67HLs2l-jcMXONrVf9uWoX1Zx8-/view?usp=drive_link)
 
 ---
 
